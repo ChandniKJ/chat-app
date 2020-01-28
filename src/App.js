@@ -8,17 +8,17 @@ function App() {
       <Contact
         avatar="https://randomuser.me/api/portraits/men/35.jpg"
         name ="Ruben May"
-        status = {true}
+        online = {true}
       />
        <Contact
         avatar="https://randomuser.me/api/portraits/women/57.jpg"
         name ="Claudia Fuller"
-        status = {false}
+        online = {false}
       />
        <Contact
         avatar="https://randomuser.me/api/portraits/men/71.jpg"
         name ="Daryl Dunn"
-        status = {true}
+        online = {true}
       />
     </div>
   );
